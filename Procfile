@@ -1,1 +1,1 @@
-$ echo "web: vendor/bin/heroku-php-apache2 public/" > Procfile
+$ echo "web: cdn/bin/heroku-php-apache2 public/" > Procfile
